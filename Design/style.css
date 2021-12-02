@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Poppins&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body > div{
+    height: 75%;
+    width: 25%;
+    background-color: rgb(226, 226, 226);
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    border-radius: 25px;
+}
+#tools, #mods{
+    height: 50%;
+    width: 100%;
+    position: relative;
+}
+button#refresh{
+    height: 85%;
+    width: 100%;
+    outline: none;
+    border: none;
+}
+input{
+    width: 70%;
+    height: 15%;
+    outline: none;
+    border: none;
+    position: absolute;
+    margin-top: -4px;
+    padding-left: 20px;
+    border-radius: 4px;
+}
+input:focus{
+    z-index: 10;
+    outline: 4px solid rgba(0, 140, 255, 0.603);
+}
+button#brwse{
+    width: 30%;
+    height: 15%;
+    position: absolute;
+    margin-top: -4px;
+    border: none;
+    outline: none;
+    background-color: rgba(0, 140, 255);
+    border-radius: 5px;
+    right: 0;
+    z-index: 9;
+    color: white;
+}
+i{
+    font-size: 60px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+}
+button:hover{
+    opacity: 0.5;
+}
+button.mod{
+    width: 100%;
+    height: 50%;
+    position: relative;
+    background-color: rgb(177, 177, 177);
+    border-radius: 10px;
+    border: 1px solid rgb(226, 226, 226);
+}
+#more{
+    position: absolute;
+    height: 7.5%;
+    width: 100%;
+    bottom: -2px;
+    z-index: 100;
+    border: none;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#more i{
+    font-size: 30px;
+}

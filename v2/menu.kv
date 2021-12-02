@@ -1,0 +1,23 @@
+<Button>
+	font_size: 32
+	background_normal: ''
+	background_color: (0,0,1,1)
+
+<TextInput>
+	background_color: (150/255,150/255,150/255,1)	
+
+
+
+<MyLayout>
+    canvas.before:
+        Color:
+            rgba: (1, 1, 1, 1)
+        Rectangle:
+            pos:self.pos
+            size:self.size
+            orientation: "vertical"
+            size: root.width, root.height
+    GridLayout:
+        Button:
+            text: "Clear"
+            background_color: (1,0,0,1)
