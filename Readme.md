@@ -9,11 +9,7 @@ will not be banned! For more details on [How your Account is Safe?](#how-your-ac
     * Antena: The 'Antena' will folder contains all the files related to location hack.
     * Head: As like the 'Antena', it contains all the files related to Headshot Hack.
     * Default: It contains the default files.
-<<<<<<< HEAD
     * Others: For appending other mods one should check [How to Add Mods](#how-to-add-mods)
-=======
-    * Others: For appending other mods one should check [How to Add Mods section](#how-to-add-mods)
->>>>>>> 59fb4e4d77cf136d4fb023323ffdb9c7c06ee89f
 * [Test Framework](#Test-Framework): It is a test for the menu. It is Optional and is manual.
 ### Version 2[v2 folder]
 ## How your Account is Safe?
