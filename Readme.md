@@ -5,7 +5,7 @@ This is the first legal mod menu for Free Fire! On using this mod menu your Free
 will not be banned! For more details on [How your Account is Safe?](#how-your-account-is-safe) click the markdown! The package has many folders. 
 ### Version 1[v1 folder]
 * #### One 'modmenu.py' file:This file is the main file of the menu.
-* #### Mods: The Mods folder by default contains three folders: 
+* #### Mods: The Mods folder by default contains three folders:
     * Antena: The 'Antena' will folder contains all the files related to location hack.
     * Head: As like the 'Antena', it contains all the files related to Headshot Hack.
     * Default: It contains the default files.
@@ -21,7 +21,7 @@ For Installing the mod menu one should have
 * ## Installation
     * Installing the mod-menu is simple. Just download any of the version i.e. 'v1' or 'v2' and keep the files in one folder. Then open modmenu.py. This is should start the file. Follow the instructions in the console to complete the process.
 # Test Framework
-The Test Framework starts from the Test folder. For the Test Framework you will need the 'index.html', 'img\default.png' and [Go to Mods](#mods-folder)
+The Test Framework starts from the Test folder. For the Test Framework you will need the 'index.html', 'img\default.png' and [Mods](Mods: The Mods folder by default contains three folders:)
 * Start with the index.html, Open it and ready it for further use
 * Open the modmenu.py, and enter the path for the img\default.png in the 
 * Then Enter the path for the Mods folder.
