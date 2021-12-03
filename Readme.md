@@ -2,9 +2,11 @@ Author: @livingGamer
 Publications: Black Merchant Publications
 # Description:
 This is the first legal mod menu for Free Fire! On using this mod menu your Free Fire account
-will not be banned! For more details on [How your Account is Safe?](#how-your-account-is-safe) click the markdown! The package has many folders. 
+will not be banned! For more details on [How your Account is Safe?](#how-your-account-is-safe) click the markdown! The package has many folders. Let's start with the version 1.
 ### Version 1[v1 folder]
-* One 'modmenu.py' file:This file is the main file of the menu.
+Version 1 is command-lined and is very basic. It only has the code and few mods.
+Each of the folders and files are discussed below.
+* One 'modmenu.py' file: This file is the main file of the menu.
 * Mods: The Mods folder by default contains three folders:
     * Antena: The 'Antena' will folder contains all the files related to location hack.
     * Head: As like the 'Antena', it contains all the files related to Headshot Hack.
