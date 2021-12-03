@@ -21,7 +21,7 @@ For Installing the mod menu one should have
 * ## Installation
     * Installing the mod-menu is simple. Just download any of the version i.e. 'v1' or 'v2' and keep the files in one folder. Then open modmenu.py. This is should start the file. Follow the instructions in the console to complete the process.
 # Test Framework
-The Test Framework starts from the Test folder. For the Test Framework you will need the 'index.html', 'img\default.png' and [Mods](Mods: The Mods folder by default contains three folders:)
+The Test Framework starts from the Test folder. For the Test Framework you will need the 'index.html', 'img\default.png' and [Mods](#Mods: The Mods folder by default contains three folders:)
 * Start with the index.html, Open it and ready it for further use
 * Open the modmenu.py, and enter the path for the img\default.png in the 
 * Then Enter the path for the Mods folder.
