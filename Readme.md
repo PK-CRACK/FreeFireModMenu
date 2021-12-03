@@ -9,10 +9,3 @@ will not be banned! For more details on [Go to How your Account is Safe? section
  * Head: As like the 'Antena', it contains all the files related to Head Mod. By default, it also has 'default.png'
 ## How your Account is Safe?
 Free generally detects hacks on the using of cheats or scripts. Due to presence cheats-detector in Free Fire, Free Fire can detect cheats in it! But with the help of this file Free Fire's anti-cheats will fail to detect the python file as Cheat and will subsequently ignore this file. Thus, your account will never be caught even you turn on the file. But if files which are being in the mods is a script there is a chance of getting your id banned! Be careful to use files named as 'assetindexer'.
-For this is to be cleared that 
-_________   ___     __        ___     ________    ___    ___
-|  ______| |   \   |  |       |  |   /  ____  \   \  \  /  /
-| |______  |  |\ \ |  |       |  |  /  /    \  \   \  \/  /
-|  ______| |  | \ \|  | ___   |  |  |  |    |  |    |    |
-| |______  |  |  \ \  | \  \__/  |  \  \____/  /    |    |
-|________| |__|   \___|  \______/    \________/     |____|
