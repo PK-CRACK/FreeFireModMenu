@@ -1,10 +1,16 @@
 import shutil
+import os
 src = input("Enter your asset_indexer location: ")
-mods = {"A" : input("Enter the location of the file in folder antena!"), "H": input("Enter the location of the file in folder head! "), "D":input("Enter the location of the file in folder default! ")}
 src = rf"{src}"
+modpath = input("Enter the path for Mods folder: ")
+modpath = rf"{modpath}"
+mods = os.listdir(modpath)
+modsdict = {}
+for i in mods:
+    modsdict[i[0]] = mods[i]
 def replace():
-    mod = input("Press D,H and A for Default, Head Mod, Antena Mod respectively: ")
-    shutil.copyfile(rf"{mods[mod]}", src)
+    modint = input("Press the first letter of the mod to activate it: ")
+    shutil.copyfile(rf"{modsdict[modint]}", src)
     print("replaced succesfully")
 while True:
     try:
