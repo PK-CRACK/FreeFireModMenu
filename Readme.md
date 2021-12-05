@@ -26,11 +26,11 @@ Free generally detects hacks on the using of cheats or scripts. Due to presence 
 # Installations ⬇️
 For Installing the mod menu one should have 
 * ## Pre-Requirements
-    * Python: Python is required for running the mod menu. It should be installed by checking the "Add python to path" checkbox.
+    * `Python`: Python is required for running the mod menu. It should be installed by checking the "Add python to path" checkbox.
 * ## Installation
     Installing the mod-menu is simple.
-    * Just download any of the version i.e. 'v1' or 'v2' and keep the files in one folder.
-    * Then open modmenu.py. This is should start the file.
+    * Just download any of the version i.e. `v1` or `v2` and keep the files in one folder.
+    * Then open `modmenu.py`. This is should start the file.
     * Follow the instructions in the console to complete the process.
 * ## How to add Mods
     * Create an image of the mod
