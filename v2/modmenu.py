@@ -1,9 +1,7 @@
 from kivy.app import App
 from kivy.uix.widget import Widget
-from kivy.properties import ObjectProperty
 from kivy.lang import Builder
 
-# Designate Our .kv design file 
 Builder.load_file('menu.kv')
 class MyLayout(Widget):
 	pass
